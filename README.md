@@ -1,0 +1,2 @@
+# cusodePythonGuanabara
+curse of python
