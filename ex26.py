@@ -1,5 +1,5 @@
 continuar = 's'
-numero = soma_total = quantidade = maior = menor = avarage =0
+numero = soma_total = quantidade = maior = menor = avarage = 0
 while continuar in 's':
     numero = int(input('Digite um numero: '))
     soma_total += numero
